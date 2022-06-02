@@ -6,7 +6,7 @@
 <h3>Our technology stack:</h3>
 <ul>
     <li>Front-end: Dart, Flutter</li>
-    <li>Back-end: GoLang</li>
+    <li>Back-end: GoLang, Python</li>
 </ul>
 <h3>Supported platforms:</h3>
 <div>
